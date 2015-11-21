@@ -11,11 +11,26 @@
 	border-top-width: 10px;
 }
 
+.bgcontent
+{
+	padding: 100px;
+	border-bottom-style: solid;
+	border-bottom-color: #336633;
+	border-bottom-width: 10px;
+	border-top-style: solid;
+	border-top-color: #336633;
+	border-top-width: 10px;
+}
+
 .bgcolor
 {
 	background: #333333;
 }
 
+.bgwhite 
+{
+	background: #fff;
+}
 .centro 
 {
 	text-align: center;
